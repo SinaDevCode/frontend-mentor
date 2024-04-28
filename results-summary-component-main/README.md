@@ -6,7 +6,7 @@
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
 ### Links
-- Solution URL: [https://github.com/SinaDevCode/frontend-mentor/tree/main/results-summary-component-main]([https://your-solution-url.com](https://github.com/SinaDevCode/frontend-mentor/tree/main/results-summary-component-main))
+- Solution URL: [https://github.com/SinaDevCode/frontend-mentor/tree/main/results-summary-component-main]([https://your-solution-url.com](https://github.com/SinaDevCode/frontend-mentor/tree/main/results-summary-component-main)
 - Live Site URL: [https://sinadevcode.github.io/frontend-mentor/results-summary-component-main](https://sinadevcode.github.io/frontend-mentor/results-summary-component-main/)
 
 ## Author
