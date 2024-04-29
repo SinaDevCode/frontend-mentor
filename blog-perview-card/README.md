@@ -1,15 +1,14 @@
 # Frontend Mentor - Blog preview card
 
+### Blog preview card using HTML & CSS
+- This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS).
+
 ![Design preview for the Blog preview card coding challenge](./design/desktop-preview.jpg)
 
-This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
-
 ### Links
-
-- Solution URL: [Add solution URL here](https://github.com/sinasalimirad/Blog-Perview-card)
-- Live Site URL: [Add live site URL here](https://sinasalimirad.github.io/Blog-Perview-card/)
-
+- Solution URL: [https://github.com/SinaDevCode/frontend-mentor/tree/main/blog-perview-card](https://github.com/SinaDevCode/frontend-mentor/tree/main/blog-perview-card)
+- Live Site URL: [https://sinadevcode.github.io/frontend-mentor/blog-perview-card/](https://sinadevcode.github.io/frontend-mentor/blog-perview-card/)
 
 ## Author
-
-- Frontend Mentor - [@sinasalimirad](https://www.frontendmentor.io/profile/sinasalimirad)
+- Frontend Mentor - [@sinasalimirad](https://www.frontendmentor.io/profile/SinaDevCode)
+- Instagram - [@sina.dev.Code](https://www.instagram.com/sina.dev.code)
