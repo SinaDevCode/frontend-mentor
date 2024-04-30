@@ -4,6 +4,7 @@
 
 ### List of the projects
 
-<strong>1. [results-summary-component-main](https://github.com/SinaDevCode/frontend-mentor/tree/main/results-summary-component-main)</strong>
+1. <a href="https://github.com/SinaDevCode/frontend-mentor/tree/main/results-summary-component-main">results-summary-component-main</a>
+2. <a href="https://github.com/SinaDevCode/frontend-mentor/tree/main/blog-preview-card">blog-preview-card</a>
 
 New repo coming soon 💪
