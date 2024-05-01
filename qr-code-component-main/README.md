@@ -10,5 +10,5 @@ This is a solution to the [Qr-code component main on Frontend Mentor](https://ww
 - Live Site URL: [Demo](https://sinadevcode.github.io/frontend-mentor/qr-code-component/)
 
 ## Author
-- Frontend Mentor - [@sinasalimirad](https://www.frontendmentor.io/profile/SinaDevCode)
+- Frontend Mentor - [@SinaDevCode](https://www.frontendmentor.io/profile/SinaDevCode)
 - Instagram - [@sina.dev.Code](https://www.instagram.com/sina.dev.code)
