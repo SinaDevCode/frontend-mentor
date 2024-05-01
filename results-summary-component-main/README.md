@@ -10,5 +10,5 @@
 - Live Site URL: [Demo](https://sinadevcode.github.io/frontend-mentor/results-summary-component-main/)
 
 ## Author
-- Frontend Mentor - [@sinasalimirad](https://www.frontendmentor.io/profile/SinaDevCode)
+- Frontend Mentor - [@SinaDevCode](https://www.frontendmentor.io/profile/SinaDevCode)
 - Instagram - [@sina.dev.Code](https://www.instagram.com/sina.dev.code)
