@@ -1,6 +1,6 @@
 # Frontend Mentor - Blog preview card
 
-### Blog preview card using HTML & CSS
+### Blog Preview Card Using HTML & CSS
 - This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS).
 
 ![Design preview for the Blog preview card coding challenge](./design/desktop-preview.jpg)
