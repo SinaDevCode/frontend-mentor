@@ -6,8 +6,8 @@
 ![Design preview for the Recipe page coding challenge](./design/desktop-preview.jpg)
 
 ### Links
-- Solution URL: [repository]()
-- Live Site URL: [Demo]()
+- Solution URL: [repository](https://github.com/SinaDevCode/frontend-mentor/tree/main/recipe-page-main)
+- Live Site URL: [Demo](https://sinadevcode.github.io/frontend-mentor/recipe-page-main/)
 
 ## Author
 - Frontend Mentor - [@SinaDevCode](https://www.frontendmentor.io/profile/SinaDevCode)
