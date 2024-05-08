@@ -9,5 +9,6 @@
 3. <a href="https://github.com/SinaDevCode/frontend-mentor/tree/main/qr-code-component-main">qr-code-component-main</a>
 4. <a href="https://github.com/SinaDevCode/frontend-mentor/tree/main/recipe-page-main">recipe-page-main</a>
 5. <a href="https://github.com/SinaDevCode/frontend-mentor/tree/main/crowdfunding-product-page-main">crowdfunding-product-page-main</a>
+6. <a href="https://github.com/SinaDevCode/frontend-mentor/tree/main/faq-accordion-main">faq-accordion-main</a>
 
 New repo coming soon 💪
