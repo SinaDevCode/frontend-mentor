@@ -7,7 +7,7 @@
 
 ### Links
 
-- Solution URL: [repository](https://github.com/sinadevcode/frontend-mentor/tree/main/crowdfunding-product-page-main)
+- Solution URL: [Repository](https://github.com/sinadevcode/frontend-mentor/tree/main/crowdfunding-product-page-main)
 - Live Site URL: [Demo](https://sinadevcode.github.io/frontend-mentor/crowdfunding-product-page-main/)
 
 ## Author
