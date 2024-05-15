@@ -6,7 +6,7 @@
 ![Design preview for the FAQ accordion coding challenge](./design/desktop-preview.jpg)
 
 ### Links
-- Solution URL: [repository](https://github.com/SinaDevCode/frontend-mentor/tree/main/faq-accordion)
+- Solution URL: [Repository](https://github.com/SinaDevCode/frontend-mentor/tree/main/faq-accordion)
 - Live Site URL: [Demo](https://sinadevcode.github.io/frontend-mentor/faq-accordion-main/)
 
 ## Author
