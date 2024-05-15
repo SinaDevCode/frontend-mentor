@@ -10,5 +10,6 @@
 4. <a href="https://github.com/SinaDevCode/frontend-mentor/tree/main/recipe-page-main">recipe-page-main</a>
 5. <a href="https://github.com/SinaDevCode/frontend-mentor/tree/main/crowdfunding-product-page-main">crowdfunding-product-page-main</a>
 6. <a href="https://github.com/SinaDevCode/frontend-mentor/tree/main/faq-accordion-main">faq-accordion-main</a>
+7. <a href="https://github.com/SinaDevCode/frontend-mentor/tree/main/clipboard-landing-page-master/">clipboard-landing-page-master</a>
 
 New repo coming soon 💪
