@@ -89,8 +89,10 @@ main article .text {
 main article img {
   width: 75%;
   height: 75%;
-  object-fit: cover;
-  object-position: center center;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: center center;
+     object-position: center center;
 }
 main article .btn__download {
   display: flex;
@@ -112,8 +114,10 @@ main .container {
 main .container img {
   transform: translateX(-2rem);
   width: 100%;
-  object-fit: cover;
-  object-position: center center;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: center center;
+     object-position: center center;
 }
 main .container .col {
   display: flex;
@@ -274,4 +278,4 @@ footer .social svg:hover {
   main .rows .col {
     width: 325px;
   }
-}
+}/*# sourceMappingURL=style.css.map */
