@@ -1,5 +1,5 @@
 /* ========== Google font ========== */
-@import url('https://fonts.googleapis.com/css2?family=Commissioner:wght@400;500;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Commissioner:wght@400;500;700&display=swap");
 
 /* ========== Variable ========== */
 :root {
@@ -22,7 +22,7 @@
 }
 
 body {
-    font-family: 'Commissioner', sans-serif;
+    font-family: "Commissioner", sans-serif;
     background-color: var(--Light-gray);
     overflow-x: hidden;
     position: relative;
@@ -38,11 +38,11 @@ a {
 }
 
 input {
-    font-family: 'Commissioner', sans-serif;
+    font-family: "Commissioner", sans-serif;
 }
 
 button {
-    font-family: 'Commissioner', sans-serif;
+    font-family: "Commissioner", sans-serif;
     cursor: pointer;
 }
 
@@ -51,9 +51,9 @@ h2 {
 }
 
 header {
-    background: url(images/image-hero-desktop.jpg), no-repeat center center/cover;
+    background: url(images/image-hero-desktop.jpg) no-repeat center center/cover;
     height: 400px;
-    width: 100%;
+    width: 100vw;
 }
 
 /* ========== Navbar ========== */
@@ -61,8 +61,7 @@ nav {
     position: absolute;
     top: 0;
     left: 0;
-    width: 100%;
-    max-width: 1440px;
+    width: 100vw;
     padding: 3rem 6rem;
     display: flex;
     justify-content: space-between;
@@ -130,7 +129,7 @@ nav .menu li a:last-child {
 
 /* ========== Main ========== */
 main {
-    width: 100%;
+    width: 100vw;
     padding: 0 2rem;
     display: flex;
     flex-direction: column;
@@ -409,13 +408,13 @@ main .modal {
 
 /* Works on Chrome, Edge, and Safari */
 .modals > div::-webkit-scrollbar {
-  width: 8px;
+    width: 8px;
 }
 
 .modals > div::-webkit-scrollbar-track {
     background: var(--White);
 }
-  
+
 .modals > div::-webkit-scrollbar-thumb {
     background-color: var(--Dark-gray);
 }
@@ -611,7 +610,8 @@ main .modal {
 /* ========== Breakpoint ========== */
 @media (max-width: 748px) {
     header {
-        background: url(images/image-hero-mobile.jpg), no-repeat center center/cover;
+        background: url(images/image-hero-mobile.jpg),
+            no-repeat center center/cover;
         height: 600px;
         width: 100%;
     }
@@ -628,7 +628,7 @@ main .modal {
         display: block;
     }
 
-    nav .menu.open{
+    nav .menu.open {
         display: flex;
         right: 3rem;
     }
@@ -688,7 +688,7 @@ main .modal {
     }
 
     .status .col:not(:last-child) .text:after {
-        content: '';
+        content: "";
         position: absolute;
         top: calc(100% + 8px);
         right: 50%;
@@ -764,18 +764,18 @@ main .modal {
         flex-direction: column;
         gap: 1rem;
     }
-   
+
     .options .submit button {
         padding: 0.25rem 2rem;
     }
 }
 
-@media (max-width: 425px){
+@media (max-width: 425px) {
     nav {
         padding: 3rem 1rem;
     }
 
-    nav .menu.open{
+    nav .menu.open {
         display: flex;
         right: 0.5rem;
     }
